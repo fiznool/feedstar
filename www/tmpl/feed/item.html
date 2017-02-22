@@ -1,0 +1,19 @@
+<ion-view>
+  <ion-nav-title>
+    <h1 class="title">{{ $ctrl.item.title }}</h1>
+  </ion-nav-title>
+  <ion-content>
+    <div class="list card">
+      <div class="item item-image" ng-if="$ctrl.item.thumbnail">
+        <img class="full-width" ng-src="{{ $ctrl.item.thumbnail }}">
+      </div>
+      <div class="item item-body item-text-wrap">
+        <p class="feed-item-content" ng-bind-html="$ctrl.item.description" ng-click="$ctrl.handleDescriptionClick($event)"></p>
+      </div>
+      <a class="item item-icon-right positive" href="" ng-if="$ctrl.item.link" ng-click="$ctrl.openArticle($ctrl.item.link)">
+        <i class="icon ion-share"></i>
+        Read More
+      </a>
+    </div>
+  </ion-content>
+</ion-view>

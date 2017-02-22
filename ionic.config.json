@@ -1,0 +1,13 @@
+{
+  "name": "feedstar",
+  "app_id": "b40c64a8",
+  "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}

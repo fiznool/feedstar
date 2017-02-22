@@ -1,0 +1,17 @@
+<ion-view>
+  <ion-nav-title>
+    <h1 class="title">{{ $ctrl.feed.title }}</h1>
+  </ion-nav-title>
+  <ion-nav-buttons side="secondary">
+    <button class="button button-icon button-icon-small icon ion-gear-b" ng-click="$ctrl.openFeedSettings()"></button>
+  </ion-nav-buttons>
+  <ion-content>
+    <ion-refresher pulling-text="Refresh Feed..." on-refresh="$ctrl.refreshFeed()"></ion-refresher>
+    <div class="list">
+      <a ui-sref="item({id: item.guid })" class="item item-icon-right" href="#" ng-repeat="item in $ctrl.items">
+        <h2>{{ item.title }}</h2>
+        <i class="icon ion-chevron-right icon-accessory"></i>
+      </a>
+    </div>
+  </ion-content>
+</ion-view>

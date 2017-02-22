@@ -1,0 +1,293 @@
+{
+  "status": "ok",
+  "feed": {
+    "url": "http://feeds.bbci.co.uk/news/rss.xml?edition=uk",
+    "title": "BBC News - Home",
+    "link": "http://www.bbc.co.uk/news/",
+    "author": "",
+    "description": "BBC News - Home",
+    "image": "http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif"
+  },
+  "items": [
+    {
+      "title": "Dundee man is new voice of BT speaking clock",
+      "pubDate": "2016-11-09 19:35:17",
+      "link": "http://www.bbc.co.uk/news/uk-scotland-tayside-central-37928543",
+      "guid": "http://www.bbc.co.uk/news/uk-scotland-tayside-central-37928543",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/DD59/production/_92356665_hi036308974.jpg",
+      "description": "A retired Dundee civil servant and former radio presenter is the new voice of the BT speaking clock.",
+      "content": "A retired Dundee civil servant and former radio presenter is the new voice of the BT speaking clock.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/DD59/production/_92356665_hi036308974.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "Croydon tram: Seven dead and 50 injured after derailment",
+      "pubDate": "2016-11-09 19:03:56",
+      "link": "http://www.bbc.co.uk/news/uk-england-london-37919658",
+      "guid": "http://www.bbc.co.uk/news/uk-england-london-37919658",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/16203/production/_92372609_mediaitem92371734.jpg",
+      "description": "Seven people die, 51 are hurt, and a driver is arrested after a tram derails in London, police say.",
+      "content": "Seven people die, 51 are hurt, and a driver is arrested after a tram derails in London, police say.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/16203/production/_92372609_mediaitem92371734.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "Man dies in Luton police shooting",
+      "pubDate": "2016-11-09 18:41:46",
+      "link": "http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-37927420",
+      "guid": "http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-37927420",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/17C93/production/_92372479_mediaitem92372478.jpg",
+      "description": "A man has died after he was shot by a police officer, Bedfordshire Police says.",
+      "content": "A man has died after he was shot by a police officer, Bedfordshire Police says.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/17C93/production/_92372479_mediaitem92372478.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "Aerial view of Croydon tram crash",
+      "pubDate": "2016-11-09 18:37:09",
+      "link": "http://www.bbc.co.uk/news/uk-england-london-37927570",
+      "guid": "http://www.bbc.co.uk/news/uk-england-london-37927570",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/6171/production/_92354942_tramaerial.jpg",
+      "description": "Seven people die and more than 50 others are injured when a tram overturns in south London.",
+      "content": "Seven people die and more than 50 others are injured when a tram overturns in south London.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/6171/production/_92354942_tramaerial.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "US election result: Clinton says Trump must have chance to lead",
+      "pubDate": "2016-11-09 18:19:37",
+      "link": "http://www.bbc.co.uk/news/election-us-2016-37929562",
+      "guid": "http://www.bbc.co.uk/news/election-us-2016-37929562",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/C2B5/production/_92354894_hillary-splash.jpg",
+      "description": "Hillary Clinton says defeat is \"painful\" but US President-elect Donald Trump must be given a chance to lead.",
+      "content": "Hillary Clinton says defeat is \"painful\" but US President-elect Donald Trump must be given a chance to lead.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/C2B5/production/_92354894_hillary-splash.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "How is Donald Trump's victory going down worldwide?",
+      "pubDate": "2016-11-09 17:44:11",
+      "link": "http://www.bbc.co.uk/news/world-us-canada-37930352",
+      "guid": "http://www.bbc.co.uk/news/world-us-canada-37930352",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/17FB3/production/_92372289_mediaitem92372288.jpg",
+      "description": "Donald Trump will become the 45th US president - here are just a few of the many reactions from around the globe.",
+      "content": "Donald Trump will become the 45th US president - here are just a few of the many reactions from around the globe.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/17FB3/production/_92372289_mediaitem92372288.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "World leaders react",
+      "pubDate": "2016-11-09 17:32:32",
+      "link": "http://www.bbc.co.uk/news/election-us-2016-37919394",
+      "guid": "http://www.bbc.co.uk/news/election-us-2016-37919394",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/16C6E/production/_92349239_mediaitem92349235.jpg",
+      "description": "World leaders react to Donald Trump's victory in the US presidential elections.",
+      "content": "World leaders react to Donald Trump's victory in the US presidential elections.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/16C6E/production/_92349239_mediaitem92349235.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "Donald Trump: 30 things the president-elect believes",
+      "pubDate": "2016-11-09 17:28:38",
+      "link": "http://www.bbc.co.uk/news/world-us-canada-34903577",
+      "guid": "http://www.bbc.co.uk/news/world-us-canada-34903577",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/2FB9/production/_92371221_mediaitem92371009.jpg",
+      "description": "What are the policies and beliefs of Donald Trump?",
+      "content": "What are the policies and beliefs of Donald Trump?",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/2FB9/production/_92371221_mediaitem92371009.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "US elections: Hillary Clinton calls on women to keep fighting",
+      "pubDate": "2016-11-09 17:28:25",
+      "link": "http://www.bbc.co.uk/news/world-latin-america-37930364",
+      "guid": "http://www.bbc.co.uk/news/world-latin-america-37930364",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/0845/production/_92371120_mediaitem92371118.jpg",
+      "description": "Hillary Clinton says she hopes that a woman will lead the United States, sooner rather than later.",
+      "content": "Hillary Clinton says she hopes that a woman will lead the United States, sooner rather than later.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/0845/production/_92371120_mediaitem92371118.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "'It'll be painful for a long time'",
+      "pubDate": "2016-11-09 17:15:46",
+      "link": "http://www.bbc.co.uk/news/election-us-2016-37930363",
+      "guid": "http://www.bbc.co.uk/news/election-us-2016-37930363",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/C7AD/production/_92371115_mediaitem92371113.jpg",
+      "description": "Hillary Clinton reacts to losing the US presidential election to Donald Trump.",
+      "content": "Hillary Clinton reacts to losing the US presidential election to Donald Trump.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/C7AD/production/_92371115_mediaitem92371113.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "Jeremy Paxman 'baffled' by University Challenge boycott",
+      "pubDate": "2016-11-09 17:15:24",
+      "link": "http://www.bbc.co.uk/news/education-37926729",
+      "guid": "http://www.bbc.co.uk/news/education-37926729",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/15EF2/production/_92324898_008000951.jpg",
+      "description": "Jeremy Paxman says a comment about a mascot might be behind a \"baffling\" decision by a students' union to boycott University Challenge.",
+      "content": "Jeremy Paxman says a comment about a mascot might be behind a \"baffling\" decision by a students' union to boycott University Challenge.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/15EF2/production/_92324898_008000951.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "US Election 2016: Markets meltdown fails to materialise",
+      "pubDate": "2016-11-09 17:03:10",
+      "link": "http://www.bbc.co.uk/news/business-37921036",
+      "guid": "http://www.bbc.co.uk/news/business-37921036",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/71A6/production/_92349092_frankfurtgetty.jpg",
+      "description": "US share markets shrug off fears that a Trump victory could lead to a large Wall Street sell-off.",
+      "content": "US share markets shrug off fears that a Trump victory could lead to a large Wall Street sell-off.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/71A6/production/_92349092_frankfurtgetty.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "Romelu Lukaku: Everton boss Ronald Koeman says striker should leave",
+      "pubDate": "2016-11-09 16:58:51",
+      "link": "http://www.bbc.co.uk/sport/football/37928353",
+      "guid": "http://www.bbc.co.uk/sport/football/37928353",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/11CA1/production/_92356827_lukaku.jpg",
+      "description": "Romelu Lukaku will one day need to leave Everton to fulfil his potential as a player, says manager Ronald Koeman.",
+      "content": "Romelu Lukaku will one day need to leave Everton to fulfil his potential as a player, says manager Ronald Koeman.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/11CA1/production/_92356827_lukaku.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "Families win against housing benefit cut",
+      "pubDate": "2016-11-09 16:35:57",
+      "link": "http://www.bbc.co.uk/news/uk-37921766",
+      "guid": "http://www.bbc.co.uk/news/uk-37921766",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/14519/production/_92352238_mediaitem92349138.jpg",
+      "description": "Two challenges are won against the so-called \"bedroom tax\" - but five others are rejected.",
+      "content": "Two challenges are won against the so-called \"bedroom tax\" - but five others are rejected.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/14519/production/_92352238_mediaitem92349138.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "India v England: Joe Root and Moeen Ali star in Rajkot",
+      "pubDate": "2016-11-09 16:24:36",
+      "link": "http://www.bbc.co.uk/sport/cricket/37922457",
+      "guid": "http://www.bbc.co.uk/sport/cricket/37922457",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/FB8A/production/_92349346_joeroot.jpg",
+      "description": "Joe Root hits a century and Moeen Ali an unbeaten 99 as England make a strong start on the first day of the first Test against India in Rajkot.",
+      "content": "Joe Root hits a century and Moeen Ali an unbeaten 99 as England make a strong start on the first day of the first Test against India in Rajkot.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/FB8A/production/_92349346_joeroot.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "Syria conflict: Coalition strike 'kills 20 civilians near Raqqa'",
+      "pubDate": "2016-11-09 16:06:15",
+      "link": "http://www.bbc.co.uk/news/world-middle-east-37922167",
+      "guid": "http://www.bbc.co.uk/news/world-middle-east-37922167",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/12100/production/_92348937_mediaitem92348936.jpg",
+      "description": "A US-led coalition strike kills 20 civilians in a village north of IS-held Raqqa - Syrian activists.",
+      "content": "A US-led coalition strike kills 20 civilians in a village north of IS-held Raqqa - Syrian activists.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/12100/production/_92348937_mediaitem92348936.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "Army put on stand-by for winter floods",
+      "pubDate": "2016-11-09 15:58:40",
+      "link": "http://www.bbc.co.uk/news/uk-37922757",
+      "guid": "http://www.bbc.co.uk/news/uk-37922757",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/1382/production/_92349940_hi030459433.jpg",
+      "description": "More than 1,000 troops will be ready to respond across the UK to any flooding this winter.",
+      "content": "More than 1,000 troops will be ready to respond across the UK to any flooding this winter.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/1382/production/_92349940_hi030459433.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "Afghan 'green-eyed girl': Pakistan deports Sharbat Gula",
+      "pubDate": "2016-11-09 15:52:25",
+      "link": "http://www.bbc.co.uk/news/world-asia-37923826",
+      "guid": "http://www.bbc.co.uk/news/world-asia-37923826",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/148F7/production/_92351248_7371cd92-81f3-4f96-9440-54bc253f7b60.jpg",
+      "description": "An Afghan woman made famous by a National Geographic front cover in 1985 has been deported from Pakistan after she was found with fake ID papers.",
+      "content": "An Afghan woman made famous by a National Geographic front cover in 1985 has been deported from Pakistan after she was found with fake ID papers.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/148F7/production/_92351248_7371cd92-81f3-4f96-9440-54bc253f7b60.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "Who voted for Donald Trump?",
+      "pubDate": "2016-11-09 15:42:09",
+      "link": "http://www.bbc.co.uk/news/election-us-2016-37922587",
+      "guid": "http://www.bbc.co.uk/news/election-us-2016-37922587",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/77E6/production/_92349603_gettyimages-621650904.jpg",
+      "description": "What do exit polls tell us about who voted for Mr Trump and who voted for Mrs Clinton?",
+      "content": "What do exit polls tell us about who voted for Mr Trump and who voted for Mrs Clinton?",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/77E6/production/_92349603_gettyimages-621650904.jpg"
+      },
+      "categories": []
+    },
+    {
+      "title": "US election 2016: Celebrities react to Donald Trump victory",
+      "pubDate": "2016-11-09 15:17:14",
+      "link": "http://www.bbc.co.uk/news/entertainment-arts-37921426",
+      "guid": "http://www.bbc.co.uk/news/entertainment-arts-37921426",
+      "author": "",
+      "thumbnail": "http://c.files.bbci.co.uk/86BE/production/_92349443_madge_ap.jpg",
+      "description": "Celebrities including Madonna, Cher and Lily Allen react to the election of Donald Trump as US president.",
+      "content": "Celebrities including Madonna, Cher and Lily Allen react to the election of Donald Trump as US president.",
+      "enclosure": {
+        "thumbnail": "http://c.files.bbci.co.uk/86BE/production/_92349443_madge_ap.jpg"
+      },
+      "categories": []
+    }
+  ]
+}
