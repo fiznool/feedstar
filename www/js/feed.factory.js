@@ -36,8 +36,9 @@
      * Find the item with the associated ID.
      */
     function getItemById(id) {
-      return $q.when(cache || getItems()).then(function() {
-        return _findItemInCache(id);
+      var items = cache && cache.items || [];
+      return items.find(function(item) {
+        return item.guid === id;
       });
     }
 
@@ -60,13 +61,6 @@
      */
     function rememberFeedUrl(url) {
       localStorage.setItem('feedUrl', url);
-    }
-
-    function _findItemInCache(id) {
-      var items = cache && cache.items || [];
-      return items.find(function(item) {
-        return item.guid === id;
-      });
     }
   }
 

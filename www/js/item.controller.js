@@ -12,15 +12,7 @@
     $ctrl.openArticle = openArticle;
     $ctrl.handleDescriptionClick = handleDescriptionClick;
 
-    activate();
-
-    function activate() {
-      FeedFactory
-        .getItemById($stateParams.id)
-        .then(function(item) {
-          $ctrl.item = item;
-        });
-    }
+    $ctrl.item = FeedFactory.getItemById($stateParams.id);
 
     function openArticle(link) {
       // Open the link in the in-app-browser.

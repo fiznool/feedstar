@@ -17,12 +17,8 @@
     $ctrl.modal = null;
     $ctrl.feedUrl = FeedFactory.retrieveFeedUrl();
 
-    activate();
-
-    function activate() {
-      createModal();
-      loadFeed();
-    }
+    createModal();
+    loadFeed();
 
     function loadFeed() {
       $ionicLoading.show({
@@ -47,7 +43,7 @@
     }
 
     function createModal() {
-      $ionicModal.fromTemplateUrl('tmpl/feed/settings.html', {
+      $ionicModal.fromTemplateUrl('tmpl/settings.html', {
         scope: $scope,
         animation: 'slide-in-up'
       }).then(function(modal) {
