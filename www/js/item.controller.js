@@ -17,7 +17,7 @@
     function openArticle(link) {
       // Open the link in the in-app-browser.
       $ionicPlatform.ready(function() {
-        $cordovaInAppBrowser.open(link);
+        $cordovaInAppBrowser.open(link, '_blank');
       });
     }
 
